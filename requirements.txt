@@ -1,0 +1,7 @@
+pandas
+numpy
+plotly.express
+IPython
+h3==3.7.2
+folium==0.12.1
+geojson
